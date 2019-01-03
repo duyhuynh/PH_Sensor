@@ -1,0 +1,28 @@
+###########################################
+# Syntax Coloring Map For DTH_PHSensor library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+DTH_PHSensor	KEYWORD1
+
+###########################################
+# Constants macro
+###########################################
+DTH_PH_SAMPLE	LITERAL1
+DTH_PH4_VOLTAGE_DEFAULT	LITERAL1
+DTH_PH7_VOLTAGE_DEFAULT	LITERAL1
+DTH_PH10_VOLTAGE_DEFAULT	LITERAL1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+begin	KEYWORD2
+setPH4AcidVolt	KEYWORD2
+setSampe	KEYWORD2
+setPH7NeutralVolt	KEYWORD2
+setPH10BasicVolt	KEYWORD2
+readPH	KEYWORD2
+getVoltage	KEYWORD2
