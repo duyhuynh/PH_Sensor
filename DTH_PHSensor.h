@@ -32,9 +32,9 @@
  *                          Define macro                            *
  *------------------------------------------------------------------*/
 #define DTH_PH_SAMPLE 16
-#define DTH_PH4_VOLTAGE_DEFAULT 1402  
-#define DTH_PH7_VOLTAGE_DEFAULT 2000  
-#define DTH_PH10_VOLTAGE_DEFAULT 2558 
+#define DTH_PH4_VOLTAGE_DEFAULT 1384  
+#define DTH_PH7_VOLTAGE_DEFAULT 2064  
+#define DTH_PH10_VOLTAGE_DEFAULT 2678 
 
 /*------------------------------------------------------------------*
  *                        Class declaration                         *
